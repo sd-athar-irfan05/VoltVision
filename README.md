@@ -112,6 +112,7 @@ VoltVision/
 │   └── README.md
 │
 ├── dashboard/
+|   ├── index.html
 │   ├── VoltVision_Network_Intelligence.html
 │   └── README_FIRST.txt
 │
@@ -175,6 +176,7 @@ VoltVision includes an interactive HTML dashboard featuring:
 To explore the dashboard, open the HTML file in a modern web browser.
 
 ### Dashboard Preview
+🌐 **Live Dashboard:** [Explore VoltVision] (https://volt-vision-silk.vercel.app/)
 
 #### Network Overview
 ![VoltVision Dashboard Overview](dashboard/screenshots/dashboard_overview.png)
